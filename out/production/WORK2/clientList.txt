@@ -1,0 +1,13 @@
+Office_friend: Amal,yoshida27185@gmail.com,ceo,2000/09/18
+Personal: sunil,sunna,malshanuom@gmail.com,2000/08/13
+Personal: bimal,bimma,malshanacc@gmail.com,2000/09/18
+Personal: vimal,vimma,academicsmalshan@gmail.com,2010/08/14
+Office_friend:jayan,malshankeerthi@gmail.com,clerk,2000/09/18
+Personal:amara,amare,fiverrmalshan@gmail.com,2000/09/18
+Office_friend:jayan,malshankeerthi@gmail.com,clerk,2000/09/18
+Official:nimal,nimal@gmail.com,ceo
+Official:kamals,kamals@gmail.com,CFO
+Personal:test1,dadakdwad,sadjidawdad,2000/09/18
+Office_friend:aj,coceicenw@com,CFO,2000/09/18
+Personal:jamaal,jamma,malshanacck@gmail.com,2000/09/18
+Personal:sumal,summa,abc@gmail.com,2000/09/18
