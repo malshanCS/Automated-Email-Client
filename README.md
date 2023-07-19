@@ -19,7 +19,7 @@ The Automated Email Client is developed using the following technologies:
 # Installation and Usage
 To use the Automated Email Client, follow these steps:
 
-- Clone the repository: git clone https://github.com/your-username/Automated-Email-Client.git
+- Clone the repository: git clone https://github.com/malshanCS/Automated-Email-Client.git
 - Open the project in your Java development environment (e.g., Eclipse, IntelliJ IDEA).
 - Set up the JavaMail library in your project. You can download the JavaMail library from the official Oracle website or use a dependency management tool like Maven or Gradle.
 - Customize the message templates in the code to suit your needs. Modify the predefined messages for different relationship types (Personal Friend, Official, Office Friend) as required.
